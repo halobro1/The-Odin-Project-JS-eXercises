@@ -5,6 +5,8 @@ const palindromes = function (string) {
 //  2. 
     for(let i = 0; i =< stringLength / 2; i++)
 
+//  3.
+    
 };
 
 // 1. Find the length of a string
